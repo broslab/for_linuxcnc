@@ -23,7 +23,7 @@ compensation_z.hal <br />
 compensation_z.py <br />
 filename.txt <br />
 
-Добавить в .ini Файл:
+Добавить в .ini Файл: <br />
 [DISPLAY] <br />
 EMBED_TAB_NAME = my_new_panel <br />
 EMBED_TAB_LOCATION = box_spindle <br />
