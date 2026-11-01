@@ -1,0 +1,16 @@
+; MACROCOMMAND=
+; MACRODEFAULTS=
+; MACROIMAGE=go_to_zero.png
+; will jog the machine to zero
+
+o<go_to_zero> sub
+
+G53 G0 Z0
+G54
+G0 X0
+G0 Y0
+G0 Z0
+
+o<go_to_zero> endsub
+
+M2
